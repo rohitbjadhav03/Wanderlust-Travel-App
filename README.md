@@ -29,7 +29,6 @@ Users can explore travel destinations, create/manage listings, upload images, an
 ---
 
 ## ✨ Features  
-- 🗺️ Browse & search listings (travel destinations)  
 - ➕ Create, update, delete your own listings  
 - 🖼️ Upload images with **Cloudinary**  
 - 📝 Add and manage reviews  
